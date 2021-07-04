@@ -1,6 +1,6 @@
 # music_app
 
-A new Flutter application.
+A Spotify clone UI using Flutter.
 
 ## Getting Started
 
